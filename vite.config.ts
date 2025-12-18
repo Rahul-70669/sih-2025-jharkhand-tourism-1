@@ -16,4 +16,5 @@ export default defineConfig({
 		react(),
 		tailwindcss()
 	],
+	base: '/sih-2025-jharkhand-tourism/'
 });
