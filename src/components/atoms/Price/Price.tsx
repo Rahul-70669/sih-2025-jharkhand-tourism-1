@@ -64,5 +64,3 @@ export const Price = (props: PriceProps) => {
 		</div>
 	);
 };
-
-export default Price;

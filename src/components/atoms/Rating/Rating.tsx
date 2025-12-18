@@ -151,5 +151,3 @@ export const Rating = ({
 
 	return <div className={ratingClasses}>{items}</div>;
 };
-
-export default Rating;
